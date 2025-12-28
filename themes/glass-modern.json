@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Glass Modern",
+        "author": "JWSP Team",
+        "version": "1.0"
+    },
+    "colors": {
+        "textPrimary": "#FFFFFF",
+        "textSecondary": "#BBBBBB",
+        "background": "#0A0A0F",
+        "accent": "#00E5FF"
+    },
+    "widget": {
+        "backgroundOpacity": 0.40,
+        "cornerRadius": 20,
+        "padding": 12
+    },
+    "font": {
+        "family": "Segoe UI",
+        "titleSize": 20,
+        "normalSize": 15
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "meta": {
+        "name": "Soft Light",
+        "author": "JWSP Team",
+        "version": "1.0"
+    },
+    "colors": {
+        "textPrimary": "#1A1A1A",
+        "textSecondary": "#666666",
+        "background": "#F5F5F7",
+        "accent": "#2196F3"
+    },
+    "widget": {
+        "backgroundOpacity": 0.95,
+        "cornerRadius": 16,
+        "padding": 14
+    },
+    "font": {
+        "family": "Segoe UI",
+        "titleSize": 18,
+        "normalSize": 14
+    }
+}

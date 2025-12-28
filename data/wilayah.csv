@@ -1,0 +1,491 @@
+# Data Wilayah Indonesia
+# Format: id,provinsi,nama,tipe,latitude,longitude,zonaWaktu
+# Tipe: KOTA atau KABUPATEN
+# ZonaWaktu: Asia/Jakarta (WIB), Asia/Makassar (WITA), Asia/Jayapura (WIT)
+#
+# Data ini mencakup semua provinsi dan wilayah utama di Indonesia
+# Koordinat digunakan untuk perhitungan waktu sholat yang akurat
+
+# === ACEH ===
+1101,Aceh,Banda Aceh,KOTA,5.5483,95.3238,Asia/Jakarta
+1102,Aceh,Sabang,KOTA,5.8946,95.3238,Asia/Jakarta
+1103,Aceh,Langsa,KOTA,4.4683,97.9683,Asia/Jakarta
+1104,Aceh,Lhokseumawe,KOTA,5.1801,97.1507,Asia/Jakarta
+1105,Aceh,Subulussalam,KOTA,2.6417,98.0000,Asia/Jakarta
+1106,Aceh,Aceh Besar,KABUPATEN,5.3800,95.5200,Asia/Jakarta
+1107,Aceh,Aceh Utara,KABUPATEN,5.0000,97.1400,Asia/Jakarta
+1108,Aceh,Aceh Timur,KABUPATEN,4.6000,97.8000,Asia/Jakarta
+1109,Aceh,Aceh Selatan,KABUPATEN,3.1700,97.4000,Asia/Jakarta
+1110,Aceh,Aceh Barat,KABUPATEN,4.4500,96.1700,Asia/Jakarta
+
+# === SUMATERA UTARA ===
+1201,Sumatera Utara,Medan,KOTA,3.5952,98.6722,Asia/Jakarta
+1202,Sumatera Utara,Binjai,KOTA,3.6003,98.4854,Asia/Jakarta
+1203,Sumatera Utara,Tebing Tinggi,KOTA,3.3283,99.1617,Asia/Jakarta
+1204,Sumatera Utara,Pematangsiantar,KOTA,2.9595,99.0687,Asia/Jakarta
+1205,Sumatera Utara,Tanjung Balai,KOTA,2.9667,99.8000,Asia/Jakarta
+1206,Sumatera Utara,Sibolga,KOTA,1.7427,98.7792,Asia/Jakarta
+1207,Sumatera Utara,Padang Sidempuan,KOTA,1.3792,99.2750,Asia/Jakarta
+1208,Sumatera Utara,Gunungsitoli,KOTA,1.2833,97.6167,Asia/Jakarta
+1209,Sumatera Utara,Deli Serdang,KABUPATEN,3.4200,98.9000,Asia/Jakarta
+1210,Sumatera Utara,Langkat,KABUPATEN,3.7500,98.2700,Asia/Jakarta
+1211,Sumatera Utara,Karo,KABUPATEN,3.1200,98.3900,Asia/Jakarta
+1212,Sumatera Utara,Asahan,KABUPATEN,2.9800,99.6500,Asia/Jakarta
+1213,Sumatera Utara,Simalungun,KABUPATEN,2.9700,99.0000,Asia/Jakarta
+1214,Sumatera Utara,Tapanuli Utara,KABUPATEN,2.0800,98.9400,Asia/Jakarta
+1215,Sumatera Utara,Tapanuli Tengah,KABUPATEN,1.9200,98.6900,Asia/Jakarta
+
+# === SUMATERA BARAT ===
+1301,Sumatera Barat,Padang,KOTA,-0.9471,100.4172,Asia/Jakarta
+1302,Sumatera Barat,Bukittinggi,KOTA,-0.3050,100.3692,Asia/Jakarta
+1303,Sumatera Barat,Payakumbuh,KOTA,-0.2167,100.6333,Asia/Jakarta
+1304,Sumatera Barat,Padang Panjang,KOTA,-0.4667,100.4167,Asia/Jakarta
+1305,Sumatera Barat,Solok,KOTA,-0.7900,100.6533,Asia/Jakarta
+1306,Sumatera Barat,Pariaman,KOTA,-0.6167,100.1167,Asia/Jakarta
+1307,Sumatera Barat,Agam,KABUPATEN,-0.2500,100.3000,Asia/Jakarta
+1308,Sumatera Barat,Pasaman,KABUPATEN,0.2000,99.7500,Asia/Jakarta
+1309,Sumatera Barat,Lima Puluh Kota,KABUPATEN,-0.0800,100.5700,Asia/Jakarta
+1310,Sumatera Barat,Tanah Datar,KABUPATEN,-0.4700,100.5700,Asia/Jakarta
+
+# === RIAU ===
+1401,Riau,Pekanbaru,KOTA,0.5071,101.4478,Asia/Jakarta
+1402,Riau,Dumai,KOTA,1.6667,101.4500,Asia/Jakarta
+1403,Riau,Bengkalis,KABUPATEN,1.4833,102.0833,Asia/Jakarta
+1404,Riau,Indragiri Hilir,KABUPATEN,-0.3333,103.1667,Asia/Jakarta
+1405,Riau,Indragiri Hulu,KABUPATEN,-0.5500,102.3500,Asia/Jakarta
+1406,Riau,Kampar,KABUPATEN,0.3167,101.1500,Asia/Jakarta
+1407,Riau,Siak,KABUPATEN,1.1000,102.0000,Asia/Jakarta
+1408,Riau,Rokan Hilir,KABUPATEN,2.0000,101.5000,Asia/Jakarta
+1409,Riau,Rokan Hulu,KABUPATEN,1.0000,100.5000,Asia/Jakarta
+1410,Riau,Pelalawan,KABUPATEN,0.2500,102.2500,Asia/Jakarta
+
+# === KEPULAUAN RIAU ===
+2101,Kepulauan Riau,Batam,KOTA,1.0456,104.0305,Asia/Jakarta
+2102,Kepulauan Riau,Tanjung Pinang,KOTA,0.9186,104.4467,Asia/Jakarta
+2103,Kepulauan Riau,Bintan,KABUPATEN,1.0833,104.5167,Asia/Jakarta
+2104,Kepulauan Riau,Karimun,KABUPATEN,1.0500,103.4167,Asia/Jakarta
+2105,Kepulauan Riau,Natuna,KABUPATEN,3.8167,108.3833,Asia/Jakarta
+2106,Kepulauan Riau,Lingga,KABUPATEN,-0.2167,104.6167,Asia/Jakarta
+
+# === JAMBI ===
+1501,Jambi,Jambi,KOTA,-1.6101,103.6131,Asia/Jakarta
+1502,Jambi,Sungai Penuh,KOTA,-2.0617,101.3917,Asia/Jakarta
+1503,Jambi,Muaro Jambi,KABUPATEN,-1.5500,103.7500,Asia/Jakarta
+1504,Jambi,Batanghari,KABUPATEN,-1.5000,103.2500,Asia/Jakarta
+1505,Jambi,Bungo,KABUPATEN,-1.5000,101.9500,Asia/Jakarta
+1506,Jambi,Tanjung Jabung Barat,KABUPATEN,-1.1500,103.6000,Asia/Jakarta
+1507,Jambi,Tanjung Jabung Timur,KABUPATEN,-1.0833,104.4167,Asia/Jakarta
+
+# === SUMATERA SELATAN ===
+1601,Sumatera Selatan,Palembang,KOTA,-2.9761,104.7754,Asia/Jakarta
+1602,Sumatera Selatan,Prabumulih,KOTA,-3.4500,104.2333,Asia/Jakarta
+1603,Sumatera Selatan,Pagar Alam,KOTA,-4.0333,103.2500,Asia/Jakarta
+1604,Sumatera Selatan,Lubuklinggau,KOTA,-3.2958,102.8617,Asia/Jakarta
+1605,Sumatera Selatan,Banyuasin,KABUPATEN,-2.6000,104.7500,Asia/Jakarta
+1606,Sumatera Selatan,Ogan Komering Ilir,KABUPATEN,-3.2500,105.7500,Asia/Jakarta
+1607,Sumatera Selatan,Ogan Komering Ulu,KABUPATEN,-4.1000,104.0500,Asia/Jakarta
+1608,Sumatera Selatan,Muara Enim,KABUPATEN,-3.7000,104.1000,Asia/Jakarta
+1609,Sumatera Selatan,Musi Banyuasin,KABUPATEN,-2.5000,103.5000,Asia/Jakarta
+1610,Sumatera Selatan,Musi Rawas,KABUPATEN,-3.0000,103.0000,Asia/Jakarta
+
+# === BENGKULU ===
+1701,Bengkulu,Bengkulu,KOTA,-3.7928,102.2608,Asia/Jakarta
+1702,Bengkulu,Rejang Lebong,KABUPATEN,-3.4667,102.5833,Asia/Jakarta
+1703,Bengkulu,Bengkulu Utara,KABUPATEN,-3.4500,102.0000,Asia/Jakarta
+1704,Bengkulu,Bengkulu Selatan,KABUPATEN,-4.2500,103.0000,Asia/Jakarta
+
+# === LAMPUNG ===
+1801,Lampung,Bandar Lampung,KOTA,-5.4294,105.2625,Asia/Jakarta
+1802,Lampung,Metro,KOTA,-5.1139,105.3067,Asia/Jakarta
+1803,Lampung,Lampung Tengah,KABUPATEN,-4.8000,105.0000,Asia/Jakarta
+1804,Lampung,Lampung Utara,KABUPATEN,-4.8333,104.8333,Asia/Jakarta
+1805,Lampung,Lampung Selatan,KABUPATEN,-5.6000,105.5000,Asia/Jakarta
+1806,Lampung,Lampung Timur,KABUPATEN,-5.0000,105.8000,Asia/Jakarta
+1807,Lampung,Lampung Barat,KABUPATEN,-5.0000,104.0500,Asia/Jakarta
+1808,Lampung,Way Kanan,KABUPATEN,-4.5000,104.5000,Asia/Jakarta
+1809,Lampung,Tulang Bawang,KABUPATEN,-4.4000,105.5000,Asia/Jakarta
+1810,Lampung,Tanggamus,KABUPATEN,-5.4000,104.6000,Asia/Jakarta
+1811,Lampung,Pringsewu,KABUPATEN,-5.3500,104.9833,Asia/Jakarta
+1812,Lampung,Pesawaran,KABUPATEN,-5.5000,105.0000,Asia/Jakarta
+
+# === KEPULAUAN BANGKA BELITUNG ===
+1901,Kepulauan Bangka Belitung,Pangkal Pinang,KOTA,-2.1306,106.1133,Asia/Jakarta
+1902,Kepulauan Bangka Belitung,Bangka,KABUPATEN,-2.0000,105.8333,Asia/Jakarta
+1903,Kepulauan Bangka Belitung,Belitung,KABUPATEN,-2.8500,107.8500,Asia/Jakarta
+1904,Kepulauan Bangka Belitung,Bangka Barat,KABUPATEN,-2.0333,105.2500,Asia/Jakarta
+1905,Kepulauan Bangka Belitung,Bangka Tengah,KABUPATEN,-2.4000,106.0000,Asia/Jakarta
+1906,Kepulauan Bangka Belitung,Bangka Selatan,KABUPATEN,-2.8000,106.1500,Asia/Jakarta
+1907,Kepulauan Bangka Belitung,Belitung Timur,KABUPATEN,-2.9500,108.0500,Asia/Jakarta
+
+# === DKI JAKARTA ===
+3101,DKI Jakarta,Jakarta Pusat,KOTA,-6.1864,106.8340,Asia/Jakarta
+3102,DKI Jakarta,Jakarta Utara,KOTA,-6.1383,106.8631,Asia/Jakarta
+3103,DKI Jakarta,Jakarta Barat,KOTA,-6.1675,106.7635,Asia/Jakarta
+3104,DKI Jakarta,Jakarta Selatan,KOTA,-6.2615,106.8106,Asia/Jakarta
+3105,DKI Jakarta,Jakarta Timur,KOTA,-6.2250,106.9004,Asia/Jakarta
+3106,DKI Jakarta,Kepulauan Seribu,KABUPATEN,-5.6167,106.5667,Asia/Jakarta
+
+# === JAWA BARAT ===
+3201,Jawa Barat,Bandung,KOTA,-6.9175,107.6191,Asia/Jakarta
+3202,Jawa Barat,Bekasi,KOTA,-6.2349,106.9896,Asia/Jakarta
+3203,Jawa Barat,Bogor,KOTA,-6.5971,106.8060,Asia/Jakarta
+3204,Jawa Barat,Cirebon,KOTA,-6.7063,108.5570,Asia/Jakarta
+3205,Jawa Barat,Depok,KOTA,-6.3852,106.8324,Asia/Jakarta
+3206,Jawa Barat,Sukabumi,KOTA,-6.9277,106.9300,Asia/Jakarta
+3207,Jawa Barat,Cimahi,KOTA,-6.8841,107.5413,Asia/Jakarta
+3208,Jawa Barat,Tasikmalaya,KOTA,-7.3274,108.2207,Asia/Jakarta
+3209,Jawa Barat,Banjar,KOTA,-7.3667,108.5333,Asia/Jakarta
+3210,Jawa Barat,Bandung Barat,KABUPATEN,-6.8417,107.4500,Asia/Jakarta
+3211,Jawa Barat,Bekasi,KABUPATEN,-6.3000,107.1500,Asia/Jakarta
+3212,Jawa Barat,Bogor,KABUPATEN,-6.5500,106.9000,Asia/Jakarta
+3213,Jawa Barat,Cianjur,KABUPATEN,-6.8200,107.1400,Asia/Jakarta
+3214,Jawa Barat,Garut,KABUPATEN,-7.2167,107.9000,Asia/Jakarta
+3215,Jawa Barat,Indramayu,KABUPATEN,-6.3333,108.3333,Asia/Jakarta
+3216,Jawa Barat,Karawang,KABUPATEN,-6.3000,107.3000,Asia/Jakarta
+3217,Jawa Barat,Kuningan,KABUPATEN,-6.9667,108.4833,Asia/Jakarta
+3218,Jawa Barat,Majalengka,KABUPATEN,-6.8333,108.2333,Asia/Jakarta
+3219,Jawa Barat,Pangandaran,KABUPATEN,-7.6833,108.6500,Asia/Jakarta
+3220,Jawa Barat,Purwakarta,KABUPATEN,-6.5500,107.4500,Asia/Jakarta
+3221,Jawa Barat,Subang,KABUPATEN,-6.5667,107.7500,Asia/Jakarta
+3222,Jawa Barat,Sumedang,KABUPATEN,-6.8500,107.9167,Asia/Jakarta
+3223,Jawa Barat,Sukabumi,KABUPATEN,-7.0000,106.9000,Asia/Jakarta
+3224,Jawa Barat,Tasikmalaya,KABUPATEN,-7.3500,108.1000,Asia/Jakarta
+3225,Jawa Barat,Ciamis,KABUPATEN,-7.3333,108.3500,Asia/Jakarta
+
+# === BANTEN ===
+3601,Banten,Serang,KOTA,-6.1181,106.1542,Asia/Jakarta
+3602,Banten,Cilegon,KOTA,-6.0167,106.0500,Asia/Jakarta
+3603,Banten,Tangerang,KOTA,-6.1783,106.6319,Asia/Jakarta
+3604,Banten,Tangerang Selatan,KOTA,-6.2894,106.7108,Asia/Jakarta
+3605,Banten,Serang,KABUPATEN,-6.2000,106.1000,Asia/Jakarta
+3606,Banten,Tangerang,KABUPATEN,-6.2500,106.5500,Asia/Jakarta
+3607,Banten,Pandeglang,KABUPATEN,-6.6500,105.9500,Asia/Jakarta
+3608,Banten,Lebak,KABUPATEN,-6.5833,106.1500,Asia/Jakarta
+
+# === JAWA TENGAH ===
+3301,Jawa Tengah,Semarang,KOTA,-6.9666,110.4196,Asia/Jakarta
+3302,Jawa Tengah,Surakarta,KOTA,-7.5755,110.8243,Asia/Jakarta
+3303,Jawa Tengah,Magelang,KOTA,-7.4797,110.2177,Asia/Jakarta
+3304,Jawa Tengah,Salatiga,KOTA,-7.3320,110.5080,Asia/Jakarta
+3305,Jawa Tengah,Pekalongan,KOTA,-6.8885,109.6753,Asia/Jakarta
+3306,Jawa Tengah,Tegal,KOTA,-6.8797,109.1256,Asia/Jakarta
+3307,Jawa Tengah,Banyumas,KABUPATEN,-7.4167,109.2333,Asia/Jakarta
+3308,Jawa Tengah,Batang,KABUPATEN,-7.0000,109.7333,Asia/Jakarta
+3309,Jawa Tengah,Blora,KABUPATEN,-7.0833,111.4167,Asia/Jakarta
+3310,Jawa Tengah,Boyolali,KABUPATEN,-7.5333,110.6000,Asia/Jakarta
+3311,Jawa Tengah,Brebes,KABUPATEN,-6.9000,109.0500,Asia/Jakarta
+3312,Jawa Tengah,Cilacap,KABUPATEN,-7.7333,109.0000,Asia/Jakarta
+3313,Jawa Tengah,Demak,KABUPATEN,-6.8833,110.6500,Asia/Jakarta
+3314,Jawa Tengah,Grobogan,KABUPATEN,-7.0833,110.9167,Asia/Jakarta
+3315,Jawa Tengah,Jepara,KABUPATEN,-6.5917,110.6750,Asia/Jakarta
+3316,Jawa Tengah,Karanganyar,KABUPATEN,-7.6000,111.0333,Asia/Jakarta
+3317,Jawa Tengah,Kebumen,KABUPATEN,-7.6667,109.6667,Asia/Jakarta
+3318,Jawa Tengah,Kendal,KABUPATEN,-7.0333,110.2000,Asia/Jakarta
+3319,Jawa Tengah,Klaten,KABUPATEN,-7.7000,110.6000,Asia/Jakarta
+3320,Jawa Tengah,Kudus,KABUPATEN,-6.8000,110.8500,Asia/Jakarta
+3321,Jawa Tengah,Pati,KABUPATEN,-6.7500,111.0500,Asia/Jakarta
+3322,Jawa Tengah,Pemalang,KABUPATEN,-6.9000,109.3833,Asia/Jakarta
+3323,Jawa Tengah,Purbalingga,KABUPATEN,-7.3833,109.3667,Asia/Jakarta
+3324,Jawa Tengah,Purworejo,KABUPATEN,-7.7167,110.0167,Asia/Jakarta
+3325,Jawa Tengah,Rembang,KABUPATEN,-6.7083,111.3500,Asia/Jakarta
+3326,Jawa Tengah,Semarang,KABUPATEN,-7.0833,110.4167,Asia/Jakarta
+3327,Jawa Tengah,Sragen,KABUPATEN,-7.4333,111.0167,Asia/Jakarta
+3328,Jawa Tengah,Sukoharjo,KABUPATEN,-7.6833,110.8500,Asia/Jakarta
+3329,Jawa Tengah,Tegal,KABUPATEN,-7.0333,109.1500,Asia/Jakarta
+3330,Jawa Tengah,Temanggung,KABUPATEN,-7.2667,110.1833,Asia/Jakarta
+3331,Jawa Tengah,Wonogiri,KABUPATEN,-7.8333,110.9167,Asia/Jakarta
+3332,Jawa Tengah,Wonosobo,KABUPATEN,-7.3667,109.9000,Asia/Jakarta
+
+# === DI YOGYAKARTA ===
+3401,DI Yogyakarta,Yogyakarta,KOTA,-7.7956,110.3695,Asia/Jakarta
+3402,DI Yogyakarta,Sleman,KABUPATEN,-7.7167,110.3500,Asia/Jakarta
+3403,DI Yogyakarta,Bantul,KABUPATEN,-7.8833,110.3333,Asia/Jakarta
+3404,DI Yogyakarta,Kulon Progo,KABUPATEN,-7.8333,110.1500,Asia/Jakarta
+3405,DI Yogyakarta,Gunung Kidul,KABUPATEN,-7.9833,110.6000,Asia/Jakarta
+
+# === JAWA TIMUR ===
+3501,Jawa Timur,Surabaya,KOTA,-7.2575,112.7521,Asia/Jakarta
+3502,Jawa Timur,Malang,KOTA,-7.9786,112.6317,Asia/Jakarta
+3503,Jawa Timur,Batu,KOTA,-7.8717,112.5261,Asia/Jakarta
+3504,Jawa Timur,Kediri,KOTA,-7.8167,111.9833,Asia/Jakarta
+3505,Jawa Timur,Madiun,KOTA,-7.6298,111.5300,Asia/Jakarta
+3506,Jawa Timur,Mojokerto,KOTA,-7.4722,112.4336,Asia/Jakarta
+3507,Jawa Timur,Pasuruan,KOTA,-7.6456,112.9075,Asia/Jakarta
+3508,Jawa Timur,Probolinggo,KOTA,-7.7543,113.2159,Asia/Jakarta
+3509,Jawa Timur,Blitar,KOTA,-8.0955,112.1609,Asia/Jakarta
+3510,Jawa Timur,Bangkalan,KABUPATEN,-7.0500,112.7333,Asia/Jakarta
+3511,Jawa Timur,Banyuwangi,KABUPATEN,-8.2167,114.3500,Asia/Jakarta
+3512,Jawa Timur,Blitar,KABUPATEN,-8.1500,112.1000,Asia/Jakarta
+3513,Jawa Timur,Bojonegoro,KABUPATEN,-7.1500,111.8833,Asia/Jakarta
+3514,Jawa Timur,Bondowoso,KABUPATEN,-7.9167,113.8333,Asia/Jakarta
+3515,Jawa Timur,Gresik,KABUPATEN,-7.1667,112.6500,Asia/Jakarta
+3516,Jawa Timur,Jember,KABUPATEN,-8.1733,113.7017,Asia/Jakarta
+3517,Jawa Timur,Jombang,KABUPATEN,-7.5500,112.2333,Asia/Jakarta
+3518,Jawa Timur,Kediri,KABUPATEN,-7.8000,112.0333,Asia/Jakarta
+3519,Jawa Timur,Lamongan,KABUPATEN,-7.1167,112.4167,Asia/Jakarta
+3520,Jawa Timur,Lumajang,KABUPATEN,-8.1333,113.2333,Asia/Jakarta
+3521,Jawa Timur,Madiun,KABUPATEN,-7.6833,111.5167,Asia/Jakarta
+3522,Jawa Timur,Magetan,KABUPATEN,-7.6500,111.3333,Asia/Jakarta
+3523,Jawa Timur,Malang,KABUPATEN,-8.0833,112.6000,Asia/Jakarta
+3524,Jawa Timur,Mojokerto,KABUPATEN,-7.5167,112.4333,Asia/Jakarta
+3525,Jawa Timur,Nganjuk,KABUPATEN,-7.6000,111.9000,Asia/Jakarta
+3526,Jawa Timur,Ngawi,KABUPATEN,-7.4167,111.4500,Asia/Jakarta
+3527,Jawa Timur,Pacitan,KABUPATEN,-8.2000,111.1000,Asia/Jakarta
+3528,Jawa Timur,Pamekasan,KABUPATEN,-7.1833,113.4833,Asia/Jakarta
+3529,Jawa Timur,Pasuruan,KABUPATEN,-7.7000,112.9000,Asia/Jakarta
+3530,Jawa Timur,Ponorogo,KABUPATEN,-7.8667,111.4667,Asia/Jakarta
+3531,Jawa Timur,Probolinggo,KABUPATEN,-7.8667,113.2167,Asia/Jakarta
+3532,Jawa Timur,Sampang,KABUPATEN,-7.2000,113.2500,Asia/Jakarta
+3533,Jawa Timur,Sidoarjo,KABUPATEN,-7.4500,112.7167,Asia/Jakarta
+3534,Jawa Timur,Situbondo,KABUPATEN,-7.7000,114.0000,Asia/Jakarta
+3535,Jawa Timur,Sumenep,KABUPATEN,-7.0167,113.8833,Asia/Jakarta
+3536,Jawa Timur,Trenggalek,KABUPATEN,-8.0500,111.7167,Asia/Jakarta
+3537,Jawa Timur,Tuban,KABUPATEN,-6.9000,112.0500,Asia/Jakarta
+3538,Jawa Timur,Tulungagung,KABUPATEN,-8.0667,111.9000,Asia/Jakarta
+
+# === BALI ===
+5101,Bali,Denpasar,KOTA,-8.6500,115.2167,Asia/Makassar
+5102,Bali,Badung,KABUPATEN,-8.5833,115.1833,Asia/Makassar
+5103,Bali,Bangli,KABUPATEN,-8.4500,115.3500,Asia/Makassar
+5104,Bali,Buleleng,KABUPATEN,-8.1167,115.0833,Asia/Makassar
+5105,Bali,Gianyar,KABUPATEN,-8.5417,115.3250,Asia/Makassar
+5106,Bali,Jembrana,KABUPATEN,-8.3500,114.6333,Asia/Makassar
+5107,Bali,Karangasem,KABUPATEN,-8.4500,115.6000,Asia/Makassar
+5108,Bali,Klungkung,KABUPATEN,-8.5333,115.4000,Asia/Makassar
+5109,Bali,Tabanan,KABUPATEN,-8.5333,115.0833,Asia/Makassar
+
+# === NUSA TENGGARA BARAT ===
+5201,Nusa Tenggara Barat,Mataram,KOTA,-8.5833,116.1167,Asia/Makassar
+5202,Nusa Tenggara Barat,Bima,KOTA,-8.4667,118.7333,Asia/Makassar
+5203,Nusa Tenggara Barat,Lombok Barat,KABUPATEN,-8.6000,116.1000,Asia/Makassar
+5204,Nusa Tenggara Barat,Lombok Tengah,KABUPATEN,-8.7000,116.3000,Asia/Makassar
+5205,Nusa Tenggara Barat,Lombok Timur,KABUPATEN,-8.5000,116.5000,Asia/Makassar
+5206,Nusa Tenggara Barat,Sumbawa,KABUPATEN,-8.5000,117.4167,Asia/Makassar
+5207,Nusa Tenggara Barat,Sumbawa Barat,KABUPATEN,-8.7833,116.9167,Asia/Makassar
+5208,Nusa Tenggara Barat,Dompu,KABUPATEN,-8.5333,118.4667,Asia/Makassar
+5209,Nusa Tenggara Barat,Bima,KABUPATEN,-8.6000,118.7000,Asia/Makassar
+5210,Nusa Tenggara Barat,Lombok Utara,KABUPATEN,-8.3333,116.3333,Asia/Makassar
+
+# === NUSA TENGGARA TIMUR ===
+5301,Nusa Tenggara Timur,Kupang,KOTA,-10.1667,123.5833,Asia/Makassar
+5302,Nusa Tenggara Timur,Kupang,KABUPATEN,-10.1500,123.7500,Asia/Makassar
+5303,Nusa Tenggara Timur,Ende,KABUPATEN,-8.8500,121.6667,Asia/Makassar
+5304,Nusa Tenggara Timur,Flores Timur,KABUPATEN,-8.3333,122.8333,Asia/Makassar
+5305,Nusa Tenggara Timur,Manggarai,KABUPATEN,-8.5833,120.4167,Asia/Makassar
+5306,Nusa Tenggara Timur,Sikka,KABUPATEN,-8.6667,122.2333,Asia/Makassar
+5307,Nusa Tenggara Timur,Sumba Barat,KABUPATEN,-9.4167,119.4167,Asia/Makassar
+5308,Nusa Tenggara Timur,Sumba Timur,KABUPATEN,-9.8333,120.2500,Asia/Makassar
+5309,Nusa Tenggara Timur,Timor Tengah Selatan,KABUPATEN,-9.7500,124.2500,Asia/Makassar
+5310,Nusa Tenggara Timur,Timor Tengah Utara,KABUPATEN,-9.4500,124.7000,Asia/Makassar
+
+# === KALIMANTAN BARAT ===
+6101,Kalimantan Barat,Pontianak,KOTA,-0.0226,109.3425,Asia/Jakarta
+6102,Kalimantan Barat,Singkawang,KOTA,0.9000,108.9667,Asia/Jakarta
+6103,Kalimantan Barat,Sambas,KABUPATEN,1.3667,109.3000,Asia/Jakarta
+6104,Kalimantan Barat,Bengkayang,KABUPATEN,0.9333,109.4333,Asia/Jakarta
+6105,Kalimantan Barat,Landak,KABUPATEN,0.2333,109.6333,Asia/Jakarta
+6106,Kalimantan Barat,Mempawah,KABUPATEN,-0.0500,109.1500,Asia/Jakarta
+6107,Kalimantan Barat,Sanggau,KABUPATEN,0.1333,110.6000,Asia/Jakarta
+6108,Kalimantan Barat,Ketapang,KABUPATEN,-1.8333,109.9833,Asia/Jakarta
+6109,Kalimantan Barat,Sintang,KABUPATEN,0.0833,111.5000,Asia/Jakarta
+6110,Kalimantan Barat,Kapuas Hulu,KABUPATEN,0.8333,112.9500,Asia/Jakarta
+6111,Kalimantan Barat,Sekadau,KABUPATEN,-0.0833,110.9833,Asia/Jakarta
+6112,Kalimantan Barat,Melawi,KABUPATEN,-0.4167,111.9833,Asia/Jakarta
+6113,Kalimantan Barat,Kayong Utara,KABUPATEN,-1.5000,109.9500,Asia/Jakarta
+6114,Kalimantan Barat,Kubu Raya,KABUPATEN,-0.2500,109.5000,Asia/Jakarta
+
+# === KALIMANTAN TENGAH ===
+6201,Kalimantan Tengah,Palangka Raya,KOTA,-2.2136,113.9108,Asia/Jakarta
+6202,Kalimantan Tengah,Kapuas,KABUPATEN,-2.9833,114.3833,Asia/Jakarta
+6203,Kalimantan Tengah,Barito Selatan,KABUPATEN,-2.6000,114.8000,Asia/Jakarta
+6204,Kalimantan Tengah,Barito Utara,KABUPATEN,-1.5000,115.2500,Asia/Jakarta
+6205,Kalimantan Tengah,Kotawaringin Barat,KABUPATEN,-2.7000,111.6333,Asia/Jakarta
+6206,Kalimantan Tengah,Kotawaringin Timur,KABUPATEN,-2.5333,112.9500,Asia/Jakarta
+
+# === KALIMANTAN SELATAN ===
+6301,Kalimantan Selatan,Banjarmasin,KOTA,-3.3167,114.5917,Asia/Makassar
+6302,Kalimantan Selatan,Banjarbaru,KOTA,-3.4417,114.8333,Asia/Makassar
+6303,Kalimantan Selatan,Banjar,KABUPATEN,-3.3167,115.0000,Asia/Makassar
+6304,Kalimantan Selatan,Barito Kuala,KABUPATEN,-3.0000,114.5833,Asia/Makassar
+6305,Kalimantan Selatan,Hulu Sungai Selatan,KABUPATEN,-2.5833,115.1167,Asia/Makassar
+6306,Kalimantan Selatan,Hulu Sungai Tengah,KABUPATEN,-2.5833,115.4333,Asia/Makassar
+6307,Kalimantan Selatan,Hulu Sungai Utara,KABUPATEN,-2.4500,115.2333,Asia/Makassar
+6308,Kalimantan Selatan,Kotabaru,KABUPATEN,-3.2833,116.2167,Asia/Makassar
+6309,Kalimantan Selatan,Tabalong,KABUPATEN,-2.2833,115.4667,Asia/Makassar
+6310,Kalimantan Selatan,Tanah Bumbu,KABUPATEN,-3.5000,115.9333,Asia/Makassar
+6311,Kalimantan Selatan,Tanah Laut,KABUPATEN,-3.7833,114.8500,Asia/Makassar
+6312,Kalimantan Selatan,Tapin,KABUPATEN,-2.9500,115.0333,Asia/Makassar
+6313,Kalimantan Selatan,Balangan,KABUPATEN,-2.3000,115.6000,Asia/Makassar
+
+# === KALIMANTAN TIMUR ===
+6401,Kalimantan Timur,Balikpapan,KOTA,-1.2379,116.8529,Asia/Makassar
+6402,Kalimantan Timur,Samarinda,KOTA,-0.4948,117.1436,Asia/Makassar
+6403,Kalimantan Timur,Bontang,KOTA,0.1333,117.5000,Asia/Makassar
+6404,Kalimantan Timur,Berau,KABUPATEN,2.1500,117.5000,Asia/Makassar
+6405,Kalimantan Timur,Kutai Kartanegara,KABUPATEN,-0.3500,116.9833,Asia/Makassar
+6406,Kalimantan Timur,Kutai Barat,KABUPATEN,0.0500,115.5000,Asia/Makassar
+6407,Kalimantan Timur,Kutai Timur,KABUPATEN,0.5000,117.2500,Asia/Makassar
+6408,Kalimantan Timur,Paser,KABUPATEN,-1.9333,116.0333,Asia/Makassar
+6409,Kalimantan Timur,Penajam Paser Utara,KABUPATEN,-1.2833,116.5333,Asia/Makassar
+6410,Kalimantan Timur,Mahakam Ulu,KABUPATEN,0.5000,115.5000,Asia/Makassar
+
+# === KALIMANTAN UTARA ===
+6501,Kalimantan Utara,Tarakan,KOTA,3.3000,117.6333,Asia/Makassar
+6502,Kalimantan Utara,Bulungan,KABUPATEN,2.8500,117.1500,Asia/Makassar
+6503,Kalimantan Utara,Malinau,KABUPATEN,3.3333,116.6500,Asia/Makassar
+6504,Kalimantan Utara,Nunukan,KABUPATEN,4.1500,117.6667,Asia/Makassar
+6505,Kalimantan Utara,Tana Tidung,KABUPATEN,3.5000,117.0500,Asia/Makassar
+
+# === SULAWESI UTARA ===
+7101,Sulawesi Utara,Manado,KOTA,1.4748,124.8421,Asia/Makassar
+7102,Sulawesi Utara,Bitung,KOTA,1.4500,125.1833,Asia/Makassar
+7103,Sulawesi Utara,Tomohon,KOTA,1.3167,124.8333,Asia/Makassar
+7104,Sulawesi Utara,Kotamobagu,KOTA,0.7167,124.3167,Asia/Makassar
+7105,Sulawesi Utara,Bolaang Mongondow,KABUPATEN,0.8167,124.0167,Asia/Makassar
+7106,Sulawesi Utara,Minahasa,KABUPATEN,1.3000,124.8500,Asia/Makassar
+7107,Sulawesi Utara,Minahasa Selatan,KABUPATEN,1.1333,124.5000,Asia/Makassar
+7108,Sulawesi Utara,Minahasa Utara,KABUPATEN,1.4667,124.9667,Asia/Makassar
+7109,Sulawesi Utara,Sangihe,KABUPATEN,3.6000,125.6000,Asia/Makassar
+7110,Sulawesi Utara,Talaud,KABUPATEN,4.1167,126.7333,Asia/Makassar
+7111,Sulawesi Utara,Minahasa Tenggara,KABUPATEN,1.1000,124.7833,Asia/Makassar
+7112,Sulawesi Utara,Bolaang Mongondow Utara,KABUPATEN,0.9833,124.0500,Asia/Makassar
+7113,Sulawesi Utara,Bolaang Mongondow Selatan,KABUPATEN,0.6500,124.0333,Asia/Makassar
+7114,Sulawesi Utara,Bolaang Mongondow Timur,KABUPATEN,0.7333,124.5833,Asia/Makassar
+
+# === SULAWESI TENGAH ===
+7201,Sulawesi Tengah,Palu,KOTA,-0.9003,119.8779,Asia/Makassar
+7202,Sulawesi Tengah,Banggai,KABUPATEN,-1.5833,123.5500,Asia/Makassar
+7203,Sulawesi Tengah,Banggai Kepulauan,KABUPATEN,-1.5500,123.5000,Asia/Makassar
+7204,Sulawesi Tengah,Buol,KABUPATEN,1.0500,121.4333,Asia/Makassar
+7205,Sulawesi Tengah,Donggala,KABUPATEN,-0.6833,119.8500,Asia/Makassar
+7206,Sulawesi Tengah,Morowali,KABUPATEN,-2.0833,121.7333,Asia/Makassar
+7207,Sulawesi Tengah,Parigi Moutong,KABUPATEN,-0.4167,120.1333,Asia/Makassar
+7208,Sulawesi Tengah,Poso,KABUPATEN,-1.4000,120.7833,Asia/Makassar
+7209,Sulawesi Tengah,Sigi,KABUPATEN,-1.2500,119.9667,Asia/Makassar
+7210,Sulawesi Tengah,Tojo Una-Una,KABUPATEN,-0.6333,121.5000,Asia/Makassar
+7211,Sulawesi Tengah,Toli-Toli,KABUPATEN,1.0500,120.8000,Asia/Makassar
+
+# === SULAWESI SELATAN ===
+7301,Sulawesi Selatan,Makassar,KOTA,-5.1477,119.4327,Asia/Makassar
+7302,Sulawesi Selatan,Parepare,KOTA,-4.0167,119.6167,Asia/Makassar
+7303,Sulawesi Selatan,Palopo,KOTA,-2.9833,120.1833,Asia/Makassar
+7304,Sulawesi Selatan,Bantaeng,KABUPATEN,-5.5333,119.9667,Asia/Makassar
+7305,Sulawesi Selatan,Barru,KABUPATEN,-4.4000,119.6167,Asia/Makassar
+7306,Sulawesi Selatan,Bone,KABUPATEN,-4.5333,120.3333,Asia/Makassar
+7307,Sulawesi Selatan,Bulukumba,KABUPATEN,-5.5500,120.2167,Asia/Makassar
+7308,Sulawesi Selatan,Enrekang,KABUPATEN,-3.5500,119.8000,Asia/Makassar
+7309,Sulawesi Selatan,Gowa,KABUPATEN,-5.3167,119.7500,Asia/Makassar
+7310,Sulawesi Selatan,Jeneponto,KABUPATEN,-5.6500,119.7500,Asia/Makassar
+7311,Sulawesi Selatan,Luwu,KABUPATEN,-2.9500,120.3000,Asia/Makassar
+7312,Sulawesi Selatan,Luwu Utara,KABUPATEN,-2.4333,120.4500,Asia/Makassar
+7313,Sulawesi Selatan,Luwu Timur,KABUPATEN,-2.4000,121.1000,Asia/Makassar
+7314,Sulawesi Selatan,Maros,KABUPATEN,-4.9833,119.5667,Asia/Makassar
+7315,Sulawesi Selatan,Pangkajene Kepulauan,KABUPATEN,-4.8333,119.5333,Asia/Makassar
+7316,Sulawesi Selatan,Pinrang,KABUPATEN,-3.7833,119.6500,Asia/Makassar
+7317,Sulawesi Selatan,Selayar,KABUPATEN,-6.1833,120.4667,Asia/Makassar
+7318,Sulawesi Selatan,Sidenreng Rappang,KABUPATEN,-3.9667,119.8333,Asia/Makassar
+7319,Sulawesi Selatan,Sinjai,KABUPATEN,-5.1167,120.2333,Asia/Makassar
+7320,Sulawesi Selatan,Soppeng,KABUPATEN,-4.3333,119.9167,Asia/Makassar
+7321,Sulawesi Selatan,Takalar,KABUPATEN,-5.4167,119.4667,Asia/Makassar
+7322,Sulawesi Selatan,Tana Toraja,KABUPATEN,-3.0667,119.8667,Asia/Makassar
+7323,Sulawesi Selatan,Toraja Utara,KABUPATEN,-2.9667,119.9000,Asia/Makassar
+7324,Sulawesi Selatan,Wajo,KABUPATEN,-4.0500,120.0000,Asia/Makassar
+
+# === SULAWESI TENGGARA ===
+7401,Sulawesi Tenggara,Kendari,KOTA,-3.9450,122.4989,Asia/Makassar
+7402,Sulawesi Tenggara,Baubau,KOTA,-5.4667,122.5833,Asia/Makassar
+7403,Sulawesi Tenggara,Bombana,KABUPATEN,-4.6333,121.9833,Asia/Makassar
+7404,Sulawesi Tenggara,Buton,KABUPATEN,-5.3000,122.9333,Asia/Makassar
+7405,Sulawesi Tenggara,Konawe,KABUPATEN,-3.9500,122.1000,Asia/Makassar
+7406,Sulawesi Tenggara,Konawe Selatan,KABUPATEN,-4.1833,122.4500,Asia/Makassar
+7407,Sulawesi Tenggara,Kolaka,KABUPATEN,-4.0500,121.6000,Asia/Makassar
+7408,Sulawesi Tenggara,Kolaka Utara,KABUPATEN,-3.2333,121.2167,Asia/Makassar
+7409,Sulawesi Tenggara,Muna,KABUPATEN,-4.9000,122.5833,Asia/Makassar
+7410,Sulawesi Tenggara,Wakatobi,KABUPATEN,-5.2833,123.5667,Asia/Makassar
+
+# === GORONTALO ===
+7501,Gorontalo,Gorontalo,KOTA,0.5412,123.0594,Asia/Makassar
+7502,Gorontalo,Boalemo,KABUPATEN,0.6167,122.0833,Asia/Makassar
+7503,Gorontalo,Bone Bolango,KABUPATEN,0.4833,123.2167,Asia/Makassar
+7504,Gorontalo,Gorontalo,KABUPATEN,0.6500,122.8333,Asia/Makassar
+7505,Gorontalo,Gorontalo Utara,KABUPATEN,0.8833,122.4833,Asia/Makassar
+7506,Gorontalo,Pohuwato,KABUPATEN,0.6167,121.3333,Asia/Makassar
+
+# === SULAWESI BARAT ===
+7601,Sulawesi Barat,Mamuju,KABUPATEN,-2.6667,118.8833,Asia/Makassar
+7602,Sulawesi Barat,Majene,KABUPATEN,-3.5333,118.9667,Asia/Makassar
+7603,Sulawesi Barat,Mamasa,KABUPATEN,-2.9167,119.3333,Asia/Makassar
+7604,Sulawesi Barat,Mamuju Utara,KABUPATEN,-1.6833,119.1500,Asia/Makassar
+7605,Sulawesi Barat,Polewali Mandar,KABUPATEN,-3.4333,119.3667,Asia/Makassar
+7606,Sulawesi Barat,Mamuju Tengah,KABUPATEN,-2.2500,119.0000,Asia/Makassar
+
+# === MALUKU ===
+8101,Maluku,Ambon,KOTA,-3.6954,128.1814,Asia/Jayapura
+8102,Maluku,Tual,KOTA,-5.6500,132.7333,Asia/Jayapura
+8103,Maluku,Buru,KABUPATEN,-3.3833,126.6500,Asia/Jayapura
+8104,Maluku,Kepulauan Aru,KABUPATEN,-6.1833,134.8167,Asia/Jayapura
+8105,Maluku,Maluku Tengah,KABUPATEN,-3.4833,128.8000,Asia/Jayapura
+8106,Maluku,Maluku Tenggara,KABUPATEN,-5.6333,132.7500,Asia/Jayapura
+8107,Maluku,Maluku Tenggara Barat,KABUPATEN,-7.6667,131.0833,Asia/Jayapura
+8108,Maluku,Seram Bagian Barat,KABUPATEN,-3.0167,128.0500,Asia/Jayapura
+8109,Maluku,Seram Bagian Timur,KABUPATEN,-3.1500,130.5000,Asia/Jayapura
+8110,Maluku,Maluku Barat Daya,KABUPATEN,-7.7500,128.0333,Asia/Jayapura
+8111,Maluku,Buru Selatan,KABUPATEN,-3.5000,126.5667,Asia/Jayapura
+
+# === MALUKU UTARA ===
+8201,Maluku Utara,Ternate,KOTA,0.7833,127.3667,Asia/Jayapura
+8202,Maluku Utara,Tidore Kepulauan,KOTA,0.6667,127.4000,Asia/Jayapura
+8203,Maluku Utara,Halmahera Barat,KABUPATEN,1.0833,127.5500,Asia/Jayapura
+8204,Maluku Utara,Halmahera Selatan,KABUPATEN,0.1167,128.2833,Asia/Jayapura
+8205,Maluku Utara,Halmahera Tengah,KABUPATEN,0.2500,128.0333,Asia/Jayapura
+8206,Maluku Utara,Halmahera Timur,KABUPATEN,0.5500,128.2500,Asia/Jayapura
+8207,Maluku Utara,Halmahera Utara,KABUPATEN,1.8333,127.9833,Asia/Jayapura
+8208,Maluku Utara,Kepulauan Sula,KABUPATEN,-1.8667,125.9333,Asia/Jayapura
+8209,Maluku Utara,Pulau Morotai,KABUPATEN,2.2667,128.5000,Asia/Jayapura
+8210,Maluku Utara,Pulau Taliabu,KABUPATEN,-1.8833,124.8333,Asia/Jayapura
+
+# === PAPUA ===
+9101,Papua,Jayapura,KOTA,-2.5336,140.7181,Asia/Jayapura
+9102,Papua,Jayapura,KABUPATEN,-2.7500,140.5833,Asia/Jayapura
+9103,Papua,Biak Numfor,KABUPATEN,-1.1833,136.0833,Asia/Jayapura
+9104,Papua,Jayawijaya,KABUPATEN,-4.0833,138.9667,Asia/Jayapura
+9105,Papua,Keerom,KABUPATEN,-3.5000,140.3333,Asia/Jayapura
+9106,Papua,Merauke,KABUPATEN,-8.4833,140.4000,Asia/Jayapura
+9107,Papua,Mimika,KABUPATEN,-4.5333,136.8833,Asia/Jayapura
+9108,Papua,Nabire,KABUPATEN,-3.3667,135.5167,Asia/Jayapura
+9109,Papua,Paniai,KABUPATEN,-3.8833,136.4000,Asia/Jayapura
+9110,Papua,Puncak Jaya,KABUPATEN,-4.0500,137.1167,Asia/Jayapura
+9111,Papua,Sarmi,KABUPATEN,-2.0833,139.0500,Asia/Jayapura
+9112,Papua,Yapen Waropen,KABUPATEN,-1.7500,136.2333,Asia/Jayapura
+9113,Papua,Asmat,KABUPATEN,-5.8833,138.7500,Asia/Jayapura
+9114,Papua,Boven Digoel,KABUPATEN,-5.6167,140.3333,Asia/Jayapura
+9115,Papua,Mappi,KABUPATEN,-6.5500,139.4500,Asia/Jayapura
+9116,Papua,Pegunungan Bintang,KABUPATEN,-4.7667,140.4500,Asia/Jayapura
+9117,Papua,Tolikara,KABUPATEN,-3.9167,138.0500,Asia/Jayapura
+9118,Papua,Waropen,KABUPATEN,-2.5833,137.1833,Asia/Jayapura
+9119,Papua,Yahukimo,KABUPATEN,-4.4000,138.9500,Asia/Jayapura
+9120,Papua,Supiori,KABUPATEN,-0.8000,135.6333,Asia/Jayapura
+9121,Papua,Mamberamo Raya,KABUPATEN,-2.2667,138.3500,Asia/Jayapura
+9122,Papua,Nduga,KABUPATEN,-4.3667,138.2333,Asia/Jayapura
+9123,Papua,Lanny Jaya,KABUPATEN,-4.0000,138.0500,Asia/Jayapura
+9124,Papua,Mamberamo Tengah,KABUPATEN,-2.8833,138.7833,Asia/Jayapura
+9125,Papua,Yalimo,KABUPATEN,-3.9000,138.2167,Asia/Jayapura
+9126,Papua,Puncak,KABUPATEN,-4.1000,137.3333,Asia/Jayapura
+9127,Papua,Dogiyai,KABUPATEN,-4.0000,135.9333,Asia/Jayapura
+9128,Papua,Intan Jaya,KABUPATEN,-4.0000,136.5500,Asia/Jayapura
+9129,Papua,Deiyai,KABUPATEN,-3.8333,135.9500,Asia/Jayapura
+
+# === PAPUA BARAT ===
+9201,Papua Barat,Sorong,KOTA,-0.8833,131.2500,Asia/Jayapura
+9202,Papua Barat,Sorong,KABUPATEN,-1.0000,131.0833,Asia/Jayapura
+9203,Papua Barat,Fakfak,KABUPATEN,-2.9167,132.2833,Asia/Jayapura
+9204,Papua Barat,Kaimana,KABUPATEN,-3.6500,133.7667,Asia/Jayapura
+9205,Papua Barat,Manokwari,KABUPATEN,-0.8667,134.0833,Asia/Jayapura
+9206,Papua Barat,Raja Ampat,KABUPATEN,-0.4000,130.5000,Asia/Jayapura
+9207,Papua Barat,Teluk Bintuni,KABUPATEN,-2.1500,133.5167,Asia/Jayapura
+9208,Papua Barat,Teluk Wondama,KABUPATEN,-2.6667,135.1167,Asia/Jayapura
+9209,Papua Barat,Sorong Selatan,KABUPATEN,-1.5000,132.0833,Asia/Jayapura
+9210,Papua Barat,Maybrat,KABUPATEN,-1.3000,132.1000,Asia/Jayapura
+9211,Papua Barat,Tambrauw,KABUPATEN,-0.8667,132.5000,Asia/Jayapura
+9212,Papua Barat,Manokwari Selatan,KABUPATEN,-1.6000,133.8167,Asia/Jayapura
+9213,Papua Barat,Pegunungan Arfak,KABUPATEN,-1.3667,133.8833,Asia/Jayapura

@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "name": "Default Dark",
+    "author": "JWSP Team",
+    "version": "1.0"
+  },
+  "colors": {
+    "textPrimary": "#FFFFFF",
+    "textSecondary": "#AAAAAA",
+    "background": "#1E2028",
+    "accent": "#4CAF50"
+  },
+  "widget": {
+    "backgroundOpacity": 0.85,
+    "cornerRadius": 16,
+    "padding": 14
+  },
+  "font": {
+    "family": "SansSerif",
+    "titleSize": 18,
+    "normalSize": 14
+  }
+}

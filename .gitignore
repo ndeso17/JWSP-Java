@@ -1,0 +1,104 @@
+# ===============================
+# Java build artifacts
+# ===============================
+bin/
+build/
+dist/
+out/
+*.class
+*.jar
+*.jmod
+
+# ===============================
+# Runtime / generated data
+# ===============================
+cache/
+logs/
+tmp/
+*.log
+
+# ===============================
+# Java package tools
+# ===============================
+target/
+dependency-reduced-pom.xml
+
+# ===============================
+# OS generated files
+# ===============================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+.nfs*
+
+# ===============================
+# IDE / Editor
+# ===============================
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.github/
+
+# ===============================
+# Environment / local config
+# ===============================
+.env
+.env.*
+*.local
+
+# ===============================
+# Java runtime (portable JDK)
+# ===============================
+Java/
+jdk*/
+openjdk*/
+
+# ===============================
+# Build scripts outputs
+# ===============================
+jwsp_sources.txt
+*.pid
+
+# ===============================
+# Node / tooling leftovers (if any)
+# ===============================
+node_modules/
+npm-debug.log*
+
+# ===============================
+# Installer & native images
+# ===============================
+*.exe
+*.msi
+*.dmg
+*.pkg
+*.deb
+*.rpm
+*.AppImage
+
+# ===============================
+# User generated themes (optional)
+# Uncomment if themes are user-only
+# ===============================
+# themes/*.json
+
+# ===============================
+# Keep important assets
+# ===============================
+!audio/**
+!data/**
+!themes/**
+!README.md
+!THEMING.md
+!jwsp.png
+!jwsp.ico
