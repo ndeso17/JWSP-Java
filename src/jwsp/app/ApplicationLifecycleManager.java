@@ -63,7 +63,9 @@ public class ApplicationLifecycleManager implements TrayHandler.TrayCallback {
                     Taskbar.getTaskbar().setIconImage(icon);
                 }
             }
-        } catch (Exception e) {}
+        } catch (Exception e) {
+            System.err.println("Failed to set taskbar icon: " + e.getMessage());
+        }
 
         selectedAdzanFile = prefs.getAdzan();
         themeManager = ThemeManager.getInstance();
@@ -96,6 +98,8 @@ public class ApplicationLifecycleManager implements TrayHandler.TrayCallback {
                     if (mainFrame != null) mainFrame.updateDisplay();
                 });
             } catch (Exception e) {
+                System.err.println("Failed to fetch initial API data: " + e.getMessage());
+                e.printStackTrace();
             }
         }).start();
     }

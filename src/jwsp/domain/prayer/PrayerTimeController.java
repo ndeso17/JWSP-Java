@@ -149,9 +149,11 @@ public class PrayerTimeController {
     }
     
     private void notifyListeners() {
-        for (PrayerTimeListener listener : listeners) {
-            listener.onPrayerTimeUpdate(currentPrayer, nextPrayer, puasaStatus);
-        }
+        javax.swing.SwingUtilities.invokeLater(() -> {
+            for (PrayerTimeListener listener : listeners) {
+                listener.onPrayerTimeUpdate(currentPrayer, nextPrayer, puasaStatus);
+            }
+        });
     }
     
     

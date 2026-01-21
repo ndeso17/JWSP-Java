@@ -77,18 +77,21 @@ public class ApiService {
             conn.setReadTimeout(5000);
 
             if (conn.getResponseCode() != 200) {
+                System.err.println("HTTP Error: " + conn.getResponseCode() + " for URL: " + urlString);
                 return null;
             }
 
-            BufferedReader in = new BufferedReader(new InputStreamReader(conn.getInputStream()));
-            StringBuilder content = new StringBuilder();
-            String inputLine;
-            while ((inputLine = in.readLine()) != null) {
-                content.append(inputLine);
+            try (BufferedReader in = new BufferedReader(new InputStreamReader(conn.getInputStream()))) {
+                StringBuilder content = new StringBuilder();
+                String inputLine;
+                while ((inputLine = in.readLine()) != null) {
+                    content.append(inputLine);
+                }
+                return content.toString();
             }
-            in.close();
-            return content.toString();
         } catch (Exception e) {
+            System.err.println("Exception in makeHttpRequest: " + e.getMessage());
+            e.printStackTrace();
             return null;
         } finally {
             if (conn != null) conn.disconnect();
