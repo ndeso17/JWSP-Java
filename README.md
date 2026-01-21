@@ -16,6 +16,22 @@ JWSP adalah **aplikasi desktop Java** untuk menampilkan jadwal waktu sholat dan 
 
 ---
 
+## Screenshots
+
+![Screenshot JWSP run NetBeans](ScreenshotNetbeans.png)
+
+![Screenshot JWSP run Terminal](ScreenshotTerminal.png)
+
+### POV Mainframe
+
+![POV Mainframe](mainframe.png)
+
+### POV Widget
+
+![POV Widget](widget.png)
+
+---
+
 ## Persyaratan
 
 ### Minimum
@@ -161,7 +177,7 @@ Tema dapat di-load ulang saat runtime.
 
 ## Audio Notifikasi
 
-- ⏰ 10 menit sebelum Shubuh & Maghrib → Tarkhim
+- ⏰ 10 menit sebelum masuk waktu sholat → Tarkhim
 - 🌅 Maghrib (Ramadhan) → Tarkhim buka puasa → Sirine → Adzan
 - 🕓 Imsak → Sirine
 - 🕌 Waktu sholat → Adzan (pilihan user)
